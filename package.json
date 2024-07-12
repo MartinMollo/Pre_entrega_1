@@ -1,0 +1,15 @@
+{
+  "name": "malette_bags",
+  "version": "1.0.0",
+  "description": "marroquineria",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch ./src/app.js"
+  },
+  "keywords": [],
+  "author": "mollo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
